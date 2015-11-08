@@ -1,0 +1,830 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"MAIL",
+				"MAIL_USERNAME"
+			],
+			[
+				"re",
+				"redirect〔module〕"
+			],
+			[
+				"er",
+				"errors"
+			],
+			[
+				"me",
+				"methods"
+			],
+			[
+				"test",
+				"test3"
+			],
+			[
+				"S",
+				"StringField"
+			],
+			[
+				"va",
+				"validators"
+			],
+			[
+				"F",
+				"Form"
+			],
+			[
+				"fr",
+				"form"
+			],
+			[
+				"B",
+				"BooleanField"
+			],
+			[
+				"uni",
+				"unique=True"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"p",
+				"primary_key=True"
+			],
+			[
+				"ro",
+				"role_id"
+			],
+			[
+				"cr",
+				"create_engine〔module〕"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"s",
+				"session"
+			],
+			[
+				"pri",
+				"primary_key"
+			],
+			[
+				"sql",
+				"sqlalchemy"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"N",
+				"NameForm"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"boo",
+				"bootstrap〔variable〕"
+			],
+			[
+				"ext",
+				"ext_wtf"
+			],
+			[
+				"vl",
+				"vlues2"
+			],
+			[
+				"v",
+				"vlues2"
+			],
+			[
+				"se",
+				"self〔argument〕"
+			],
+			[
+				"ha",
+				"hash_password〔variable〕"
+			],
+			[
+				"ge",
+				"generate_password_hash〔module〕"
+			],
+			[
+				"c",
+				"close"
+			],
+			[
+				"SU",
+				"SubmitFirld"
+			],
+			[
+				"None",
+				"None〔variable〕"
+			],
+			[
+				"Name",
+				"NameForm〔class〕"
+			],
+			[
+				"sy",
+				"system〔function〕"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"a",
+				"action	Attr"
+			],
+			[
+				"redi",
+				"redirect1〔function〕"
+			],
+			[
+				"__",
+				"__name__ == '__main__':〔variable〕"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"cu",
+				"current_thread〔function〕"
+			],
+			[
+				"th",
+				"threading〔module〕"
+			],
+			[
+				"ci",
+				"current_thread〔function〕"
+			],
+			[
+				"ran",
+				"random	statement"
+			],
+			[
+				"pr",
+				"Process	module"
+			],
+			[
+				"url",
+				"urllib2"
+			],
+			[
+				"por",
+				"process"
+			],
+			[
+				"P",
+				"process	module"
+			],
+			[
+				"el",
+				"else	keyword"
+			],
+			[
+				"pro",
+				"profit	statement"
+			],
+			[
+				"i",
+				"insert	function"
+			],
+			[
+				"__del",
+				"__delitem__	function"
+			],
+			[
+				"__set",
+				"__setitem__	function"
+			],
+			[
+				"tr",
+				"True	instance"
+			],
+			[
+				"str",
+				"strfilepath	statement"
+			],
+			[
+				"img",
+				"Image	module"
+			],
+			[
+				"img_",
+				"img_size"
+			],
+			[
+				"wa",
+				"wraps"
+			],
+			[
+				"func",
+				"functools"
+			],
+			[
+				"w",
+				"wraps"
+			],
+			[
+				"k",
+				"kw"
+			],
+			[
+				"im",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"wi",
+				"while	While Loop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "# -*- coding:utf-8 -*-\nfrom config import config\nfrom flask import Flask\nfrom flask.ext.moment import Moment\nfrom flask.ext.sqlalchemy import SQLAlchemy\n\nfrom flask.ext.mail import Mail\nmoment = Moment()\ndb = SQLAlchemy()\nbapp=Blueprint('main',__name__)\nmyapp=Flask\ndefind=deFlask(__name__)\ndef create_app(config_name):\n	print (Flask)\n	app=Flask(__name__)\n	app.config.from_object(config[config_name])\n	config[config_name].init_myapp(app)\n	mail=Mail(defind)\n	moment.init_app(app)\n	db.init_app(app)\n	print ('config[config_name] is:',config[config_name])\n	print ('moment is:',moment)\n	print ('mail is:',mail)\n	print ('db is:',db)\n	print ('The name is:',__name__)\n	return app\n\n# app = Flask(__name__)\n# app.config.from_object(config[config_name])\n# config[config_name].init_app(app)",
+			"file": "test.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 778,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\nfrom flask import Flask \nfrom flask import Flask, render_template, url_for, session\nfrom test2 import bapp\n\nmapp=Flask(__name__)\nprint('bapp:',bapp)\nprint('mapp:',mapp)\n\nmapp.register_blueprint(bapp)\n\n@mapp.route('/mapp')\ndef demapp():\n	return '<h1>this mapp</h1>'\n\n\nif __name__ == '__main__':\n	mapp.run(debug=True)",
+			"file": "test4.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 316,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python 3/Python3.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instak",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Try/Except/Finally"
+			],
+			[
+				"菜",
+				"View: Toggle Menu→切换菜单"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path();  os.makedirs(ipp) if not os.path.exists(ipp) else None;   urllib.install_opener(urllib.build_opener(urllib.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllibos; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path();  os.makedirs(ipp) if not os.path.exists(ipp) else None;   urllibinstall_opener(urllibbuild_opener(urllibProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urlliburlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path();  os.makedirs(ipp) if not os.path.exists(ipp) else None;   urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path();  os.makedirs(ipp) if not os.path.exists(ipp) else None;   urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Python34/venv/Scripts/other/userre.py",
+		"/D/Python34/venv/Scripts/sql.py",
+		"/D/Python34/venv/Scripts/templates/test1.html",
+		"/D/Python34/venv/Scripts/templates/ext_bootstrap.html",
+		"/D/Python34/venv/Scripts/templates/register.html",
+		"/D/Python34/venv/Scripts/mail.py",
+		"/D/Python34/venv/Scripts/templates/test3.html",
+		"/D/Python34/venv/Scripts/test2.py",
+		"/D/Python34/venv/Scripts/config.py",
+		"/D/Python34/venv/Scripts/myapp.py",
+		"/D/Python34/venv/Scripts/templates/test4.py",
+		"/D/Python34/venv/Scripts/templates/text3.py",
+		"/D/Python34/venv/Scripts/templates/blong.html",
+		"/D/Python34/venv/Scripts/test.py",
+		"/C/Users/Administrator/Desktop/press-1922-package-v2/数据库进阶-对象关系映射（ORM）的使用/源码/数据库进阶-对象关系映射（ORM）的使用-v5/c06/user/model.py",
+		"/D/Python34/venv/Scripts/templates/index.html",
+		"/D/Python34/venv/Scripts/templates/form.html",
+		"/D/Python34/venv/Scripts/templates/new_1.txt",
+		"/D/Python34/venv/Scripts/templates/about.html",
+		"/D/Python34/venv/Scripts/templates/model.html",
+		"/C/Users/Administrator/Desktop/press-1922-package-v2/数据库进阶-对象关系映射（ORM）的使用/源码/数据库进阶-对象关系映射（ORM）的使用-v5/c06/user/main.py",
+		"/D/Python34/venv/Scripts/templates/404.html",
+		"/D/Python34/venv/Scripts/templates/strap.html",
+		"/D/Python34/venv/Scripts/test.db",
+		"/D/Python34/venv/Scripts/activate",
+		"/C/Users/Administrator/.ssh/id_rsa",
+		"/D/Python34/venv/Scripts/deactivate.bat",
+		"/D/Python34/venv/Scripts/SQLite1.py",
+		"/C/Users/Administrator/Desktop/pytstd/def.py",
+		"/D/Python34/venv/Scripts/learning/hebingdict.py",
+		"/D/Python34/venv/Scripts/SQLite2.py",
+		"/C/Users/Administrator/Desktop/pytstd/text3.py",
+		"/D/Python34/venv/Scripts/__init__.py",
+		"/D/Python34/venv/Scripts/templates/new.html",
+		"/C/Users/Administrator/Desktop/pytstd/Python学习/9x9.py",
+		"/C/Users/Administrator/Desktop/bilibili.py",
+		"/C/Users/Administrator/Desktop/pytstd/reptile/reptile_renren.py",
+		"/C/Users/Administrator/Desktop/pytstd/reptile/new1.py",
+		"/C/Users/Administrator/Desktop/pytstd/test2.py",
+		"/D/Python34/venv/Lib/site-packages/flask/exthook.py",
+		"/D/Python34/venv/Scripts/templates/ext_wtf.html",
+		"/D/Python34/venv/Scripts/templates/new_2.html",
+		"/D/Python34/venv/Scripts/templates/new_1.html",
+		"/C/Users/Administrator/Desktop/Flask-development-foundation-and-entry_v1/Flask-development-foundation-and-entry/Flask开发基础与入门/源码/03msg_error/templates/index.html",
+		"/C/Users/Administrator/Desktop/Flask-development-foundation-and-entry_v1/Flask-development-foundation-and-entry/Flask开发基础与入门/源码/03msg_error/flaskapp.py",
+		"/D/Python34/venv/Scripts/templates/wtf_module.py",
+		"/D/Python34/venv/Scripts/new_user.py",
+		"/C/Users/Administrator/Desktop/Flask-development-foundation-and-entry_v1/Flask-development-foundation-and-entry/Flask开发基础与入门/源码/02template/models.py",
+		"/C/Users/Administrator/Desktop/Flask-development-foundation-and-entry_v1/Flask-development-foundation-and-entry/Flask开发基础与入门/源码/02template/flaskapp.py",
+		"/D/Python34/venv/Scripts/user.py",
+		"/D/用户目录/我的文档/Tencent Files/769007157/FileRecv/ziji.py",
+		"/C/Users/Administrator/Desktop/pytstd/web/app.py",
+		"/C/Users/Administrator/Desktop/pytstd/web/Flask_test.py",
+		"/C/Users/Administrator/Desktop/xls.py",
+		"/C/Users/Administrator/Desktop/dabao/xls1.py",
+		"/C/Users/Administrator/Desktop/pytstd/process_test.py",
+		"/C/Users/Administrator/Desktop/pytstd/test1.html",
+		"/D/program files/Sublime Text 3/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/program files/Sublime Text 3/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Administrator/Desktop/pytstd/maizi/b.py",
+		"/D/program files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrator/Desktop/pytstd/digui.py",
+		"/C/Users/Administrator/Desktop/pytstd/maizi/GuessNumber.py",
+		"/C/Users/Administrator/Desktop/pytstd/maizi/a.py",
+		"/C/Users/Administrator/Desktop/pytstd/io.pyc",
+		"/C/Users/Administrator/Desktop/pytstd/maizi/countdown.py",
+		"/C/Users/Administrator/Desktop/Default.sublime-package/exec.py",
+		"/C/Users/Administrator/Desktop/pytstd/GuessNumber.py",
+		"/C/Users/Administrator/Desktop/pytstd/pic.py",
+		"/C/Users/Administrator/Desktop/pytstd/win.pyw",
+		"/D/用户目录/我的文档/Tencent Files/769007157/FileRecv/Python学习之倒计时_countdown.py",
+		"/C/Users/Administrator/Desktop/pytstd/b.py",
+		"/C/Users/Administrator/Desktop/a.py",
+		"/C/Users/Administrator/Desktop/pytstd/jiangjin.py",
+		"/C/Users/Administrator/Desktop/ganhuaishi.py",
+		"/D/用户目录/我的文档/Tencent Files/769007157/FileRecv/FamilyTree.py",
+		"/D/Program Files (x86)/IBM/IBM Informix Dynamic Server/11.50/etc/ONCONFIG.ol_NvRay",
+		"/C/Users/Administrator/Desktop/pytstd/liaotian.py",
+		"/C/Users/Administrator/Desktop/pic2.py",
+		"/C/Users/Administrator/Desktop/pic.py",
+		"/C/Users/Administrator/Desktop/g.py",
+		"/C/Users/Administrator/Desktop/pytstd/windows.py",
+		"/D/Python34/Lib/tkinter/__init__.py",
+		"/C/Users/Administrator/Desktop/pytstd/test.py",
+		"/C/Users/Administrator/Desktop/pytstd/yeild.py",
+		"/C/Users/Administrator/Desktop/pytstd/while.py",
+		"/C/Users/Administrator/Desktop/pytstd/if.py",
+		"/C/Users/Administrator/Desktop/pic - 副本.py",
+		"/C/Users/Administrator/Desktop/pytstd/hello.py",
+		"/C/Users/Administrator/Desktop/pytstd/hh.py",
+		"/D/E4A/易语言与E4A通用的RC4加密算法/E4ARC42EPL.e",
+		"/C/Users/Administrator/Desktop/pytstd/prod.py",
+		"/C/Users/Administrator/Desktop/pytstd/PYTHON.PY",
+		"/E/Users/Administrator/Desktop/Python学习/bianliangzuoyongyu.py",
+		"/E/Users/Administrator/Desktop/Python学习/9x9.py",
+		"/E/Users/Administrator/Desktop/Python学习/while.py",
+		"/C/Users/Administrator/Desktop/telnet.py",
+		"/C/Users/Administrator/Desktop/GUI.py",
+		"/D/Program Files (x86)/MagicPlus/MagicPlus.exe",
+		"/C/Users/Administrator/.sqlmap/output/www.dnt.com.cn/log",
+		"/C/Users/Administrator/.sqlmap/output/www.dnt.com.cn/dump/dntcom2011/en_ywy_admin.csv",
+		"/E/Users/Administrator/Desktop/VIBEUI_V2.0_1507_7.153.1_DEV_A808t_WC8E/chattr",
+		"/E/Users/Administrator/Desktop/ll.py",
+		"/E/Users/Administrator/Desktop/in.py",
+		"/E/Users/Administrator/Desktop/python_dm.py",
+		"/C/Users/Administrator/.sqlmap/output/xg.snnu.edu.cn/log",
+		"/C/Users/Administrator/.sqlmap/output/xg.snnu.edu.cn/dump/Studwork6/tarm_StudRecord.csv",
+		"/C/Users/Administrator/.sqlmap/output/xg.snnu.edu.cn/dump/Studwork6/tcmoe_StatusChangeCause.csv",
+		"/C/Users/Administrator/.sqlmap/output/xg.snnu.edu.cn/dump/Studwork6/tcmoe_StatusChangeType.csv",
+		"/C/Users/Administrator/.sqlmap/output/xg.snnu.edu.cn/dump/Studwork6/tmem_MemCharge.csv",
+		"/C/Users/Administrator/.sqlmap/output/xg.snnu.edu.cn/dump/Studwork6/treward_InformationG.csv",
+		"/C/Users/Administrator/.sqlmap/output/xg.snnu.edu.cn/dump/Studwork6/treward_TypeG.csv",
+		"/C/Users/Administrator/.sqlmap/output/xg.snnu.edu.cn/dump/Studwork6/tStudCadre_Info.csv",
+		"/C/Users/Administrator/.sqlmap/output/xg.snnu.edu.cn/dump/Studwork6/tsubsidy_Annotion.csv",
+		"/C/Users/Administrator/.sqlmap/output/xg.snnu.edu.cn/dump/Studwork6/tsubsidy_Classify.csv",
+		"/E/Users/Administrator/Desktop/lo.py",
+		"/E/Users/Administrator/Desktop/sy.py",
+		"/E/Users/Administrator/Desktop/digui.py",
+		"/E/Users/Administrator/Desktop/python_e/wnxd_e.py",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Python27/easygui.py",
+		"/D/python/qqw.py",
+		"/D/python/sm.py",
+		"/D/python/7dz.py",
+		"/E/Users/Administrator/Desktop/666.html",
+		"/E/Users/Administrator/Desktop/刘瑞简2历.html",
+		"/E/Users/Administrator/Desktop/ll.html",
+		"/E/Users/Administrator/Desktop/ss.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"app",
+			"Message",
+			" %}",
+			"		\n",
+			"SQL",
+			"form",
+			"user_id",
+			"db.",
+			"sqlite",
+			"name1",
+			"'>\n",
+			" %}",
+			"%}",
+			"name1",
+			"name",
+			"pwd",
+			"name",
+			"red",
+			"{{ ",
+			">",
+			"h1",
+			"new",
+			"())",
+			"/'",
+			"decode",
+			"load",
+			"load_module",
+			"load",
+			"')\n",
+			"is",
+			">')",
+			"a",
+			"x",
+			"open_workbook",
+			"open_excel",
+			"sheet_by_name",
+			"open_excel",
+			"data",
+			"sheet_by_name",
+			"excel_table_rownum",
+			"+B",
+			"+ B",
+			"Ctrl",
+			"ctrl",
+			"rander",
+			"('",
+			"append_data",
+			"2",
+			"rllib2",
+			"os",
+			"20",
+			"2",
+			"installation",
+			"urllib2",
+			"\ntry:\n	profit=int(input(\"Plase your profit:\"))\nexcept ValueError:\n	print (\"Your input is not a number\")\n	profit=0\nbonus=0\nif profit<=100000:\n	bonus=profit*0.1\nelif profit>100000 and profit<=200000:\n	bonus=100000*0.1+(profit-100000)*0.075\nelif profit>200000 and profit<=400000:\n	bonus=(profit-200000)*0.05+17500\nelif profit>400000 and profit<=600000:\n	bonus=(profit-400000)*0.03+27500\nelif profit>600000 and profit <=1000000:\n	bonus=(profit-600000)*0.015+33500\nelif profit>1000000:\n	bonus=(profit-1000000)*0.01+39500\nelse:\n	print (\"You don't have a bonus\")\nprint (\"Your bonus is:\"+str(bonus))",
+			"#!/usr/bin/env python3\n# -*- coding: utf-8 -*-\n\n' a test module '\n\n__author__ = 'NvRay'\n\nfrom PIL import Image\nimport sys,os\nimg_path=os.getcwd()\nimg_name=sys.argv[1]\n\nprint (\"filename,sizex,sizey,formt\")\ndef duang():\n	pic=Image.open(img_path+'\\img_name')\n	if len(sys.argv)==3:\n		img_sizex=sys.argv[2]\n		img_sizey=sys.argv[3]\n		pic.thumbnail((int(img_sizex),int(img_sizey)))\n		pic.save()\n	elif len(sys.argv)==4:\n		img_format=sys.argv[4]\n		pic.thumbnail((int(img_sizex),int(img_sizey)))\n		pic.save()\n		print ('end')\n		if __name__=='__main__':\n			duang()",
+			"#!/usr/bin/env python3\n# -*- coding: utf-8 -*-\n\n' a test module '\n\n__author__ = 'NvRay'\n\nfrom PIL import Image\nimport sys,os\nimg_path=os.getcwd()\nimg_name=sys.argv[1]\n\nprint (\"filename,sizex,sizey,formt\")\ndef duang():\n	pic=Image.open(img_path+'\\img_name')\n	if len(sys.argv)==3:\n		img_sizex=sys.argv[2]\n		img_sizey=sys.argv[3]\n		pic.thumbnail((int(img_sizex),int(img_sizey)))\n		pic.save()\n	elif len(sys.argv)==4:\n		img_format=sys.argv[4]\n		pic.thumbnail((int(img_sizex),int(img_sizey)))\n		pic.save()\n	print ('end')\nif __name__=='__main__':\n    duang()",
+			"clab",
+			"HostName",
+			"informix server",
+			"informix",
+			"ROOTSIZE",
+			"rootsize",
+			"pic",
+			",'eucgb2312_cn'",
+			")",
+			"') ",
+			"unicode(",
+			"print ",
+			"sys.argv",
+			"admin",
+			"	\n",
+			"image002",
+			"image",
+			"image0",
+			"image002",
+			"body",
+			"image002",
+			"image003",
+			"image",
+			"img",
+			"7",
+			"])}",
+			"=-[poikjhvcx]",
+			"poikjhvcx"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n\n\nif __name__ == '__main__':\n	print(type(get_web()))\n    print(get_web)\n",
+			":\n",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "D:\\Python34\\venv\\Scripts"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test4.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 227.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"myapp",
+				"myapp.py"
+			],
+			[
+				"ab",
+				"templates\\about.html"
+			],
+			[
+				"ex",
+				"templates\\ext_bootstrap.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Python34\\venv\\Scripts\\work1.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
