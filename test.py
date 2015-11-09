@@ -1,3 +1,4 @@
 #coding:utf-8
 from datetime import datetime
-print (datetime.utcnow())
+class seen_time:
+    now_tiem=datetime.utcnow()
