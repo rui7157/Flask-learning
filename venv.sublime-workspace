@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"la",
+				"last_seen"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Co",
+				"Column"
+			],
+			[
 				"m",
 				"myapp"
 			],
@@ -14,10 +26,6 @@
 			[
 				"login",
 				"login_required"
-			],
-			[
-				"Co",
-				"Confirmed"
 			],
 			[
 				"e",
@@ -364,14 +372,6 @@
 			}
 		},
 		{
-			"file": "__init__.py",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "myapp/view/test.py",
 			"settings":
 			{
@@ -391,7 +391,7 @@
 			"file": "myapp/view/page.py",
 			"settings":
 			{
-				"buffer_size": 749,
+				"buffer_size": 748,
 				"line_ending": "Windows"
 			}
 		},
@@ -416,9 +416,25 @@
 			"file": "myapp/view/auth/views.py",
 			"settings":
 			{
-				"buffer_size": 3187,
+				"buffer_size": 3256,
 				"line_ending": "Windows",
 				"name": "views.py"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/.ssh/id_rsa.pub",
+			"settings":
+			{
+				"buffer_size": 397,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".git/logs/refs/heads/master",
+			"settings":
+			{
+				"buffer_size": 1644,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -433,7 +449,7 @@
 			"file": "/C/Users/Administrator/Desktop/kl.py",
 			"settings":
 			{
-				"buffer_size": 1094,
+				"buffer_size": 151,
 				"line_ending": "Windows"
 			}
 		},
@@ -517,6 +533,14 @@
 			}
 		},
 		{
+			"file": "myapp/templates/blog.html",
+			"settings":
+			{
+				"buffer_size": 610,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "myapp/templates/index.html",
 			"settings":
 			{
@@ -560,7 +584,7 @@
 			"file": "myapp/sql.py",
 			"settings":
 			{
-				"buffer_size": 3622,
+				"buffer_size": 4057,
 				"line_ending": "Windows"
 			}
 		},
@@ -569,14 +593,6 @@
 			"settings":
 			{
 				"buffer_size": 547,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -687,6 +703,7 @@
 	},
 	"file_history":
 	[
+		"/D/Python34/venv/.git/logs/refs/heads/test2",
 		"/C/Users/Administrator/Desktop/pytstd/reptile/test.py",
 		"/D/360安全浏览器下载/workplay.js",
 		"/C/Users/Administrator/Desktop/kl.py",
@@ -813,8 +830,7 @@
 		"/C/Users/Administrator/Desktop/pytstd/prod.py",
 		"/C/Users/Administrator/Desktop/pytstd/PYTHON.PY",
 		"/E/Users/Administrator/Desktop/Python学习/bianliangzuoyongyu.py",
-		"/E/Users/Administrator/Desktop/Python学习/9x9.py",
-		"/E/Users/Administrator/Desktop/Python学习/while.py"
+		"/E/Users/Administrator/Desktop/Python学习/9x9.py"
 	],
 	"find":
 	{
@@ -971,7 +987,7 @@
 	"groups":
 	[
 		{
-			"selected": 14,
+			"selected": 13,
 			"sheets":
 			[
 				{
@@ -987,8 +1003,8 @@
 						"selection":
 						[
 							[
-								1285,
-								1285
+								1300,
+								1300
 							]
 						],
 						"settings":
@@ -999,10 +1015,10 @@
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 396.0,
+						"translation.y": 528.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -1033,7 +1049,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
@@ -1065,7 +1081,7 @@
 						"translation.y": 8096.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 32,
+					"stack_index": 33,
 					"type": "text"
 				},
 				{
@@ -1097,7 +1113,7 @@
 						"translation.y": 1518.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 34,
+					"stack_index": 35,
 					"type": "text"
 				},
 				{
@@ -1113,14 +1129,14 @@
 						"selection":
 						[
 							[
-								133,
-								133
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"encoding_helper_encoding": "cp936",
+							"encoding_helper_encoding": "UTF-8",
 							"origin_encoding": "ASCII",
 							"syntax": "Packages/Python/Python.tmLanguage",
 							"translate_tabs_to_spaces": false
@@ -1129,7 +1145,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -1159,44 +1175,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 66.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
 					"buffer": 6,
-					"file": "__init__.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "cp936",
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
 					"file": "myapp/view/test.py",
 					"semi_transient": false,
 					"settings":
@@ -1223,11 +1209,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 7,
 					"file": "myapp/view/__init__.py",
 					"semi_transient": false,
 					"settings":
@@ -1254,24 +1240,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 8,
 					"file": "myapp/view/page.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 749,
+						"buffer_size": 748,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								294,
-								294
+								631,
+								631
 							]
 						],
 						"settings":
@@ -1284,14 +1270,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 418.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 9,
 					"file": "myapp/templates/404.html",
 					"semi_transient": false,
 					"settings":
@@ -1317,11 +1303,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 24,
+					"stack_index": 26,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 10,
 					"file": "myapp/view/auth/__init__.py",
 					"semi_transient": false,
 					"settings":
@@ -1348,24 +1334,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 11,
 					"file": "myapp/view/auth/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3187,
+						"buffer_size": 3256,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1157,
-								1157
+								3020,
+								3020
 							]
 						],
 						"settings":
@@ -1377,14 +1363,73 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 660.0,
+						"translation.y": 1577.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
+					"buffer": 12,
+					"file": "/C/Users/Administrator/.ssh/id_rsa.pub",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								396,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
 					"buffer": 13,
+					"file": ".git/logs/refs/heads/master",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								512,
+								512
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 197.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
 					"file": "/C/Users/Administrator/Desktop/pytstd/reptile/reptile_renren.py",
 					"semi_transient": false,
 					"settings":
@@ -1409,42 +1454,43 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
-					"buffer": 14,
+					"buffer": 15,
 					"file": "/C/Users/Administrator/Desktop/kl.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1094,
+						"buffer_size": 151,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								894,
-								894
+								140,
+								140
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding": "cp936",
 							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 176.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
+					"buffer": 16,
 					"file": "myapp/view/user/__init__.py",
 					"semi_transient": false,
 					"settings":
@@ -1471,11 +1517,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 16,
+					"buffer": 17,
 					"file": "myapp/view/users/__init__.py",
 					"semi_transient": false,
 					"settings":
@@ -1502,11 +1548,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
-					"buffer": 17,
+					"buffer": 18,
 					"file": "myapp/view/users/view.py",
 					"semi_transient": false,
 					"settings":
@@ -1533,11 +1579,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
-					"buffer": 18,
+					"buffer": 19,
 					"file": "myapp/view/auth/form.py",
 					"semi_transient": false,
 					"settings":
@@ -1549,8 +1595,8 @@
 						"selection":
 						[
 							[
-								216,
-								216
+								606,
+								606
 							]
 						],
 						"settings":
@@ -1560,15 +1606,15 @@
 							"origin_encoding": "UTF-8",
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.x": -0.0,
+						"translation.y": 264.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 19,
+					"buffer": 20,
 					"file": "myapp/view/form.py",
 					"semi_transient": false,
 					"settings":
@@ -1597,11 +1643,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
+					"buffer": 21,
 					"file": "tests/test.py",
 					"semi_transient": false,
 					"settings":
@@ -1628,11 +1674,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 29,
+					"stack_index": 31,
 					"type": "text"
 				},
 				{
-					"buffer": 21,
+					"buffer": 22,
 					"file": "myapp/view/auth/errors.py",
 					"semi_transient": false,
 					"settings":
@@ -1659,11 +1705,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
-					"buffer": 22,
+					"buffer": 23,
 					"file": "myapp/templates/auth/401.html",
 					"semi_transient": false,
 					"settings":
@@ -1690,11 +1736,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 28,
+					"stack_index": 30,
 					"type": "text"
 				},
 				{
-					"buffer": 23,
+					"buffer": 24,
 					"file": "myapp/templates/ext_bootstrap.html",
 					"semi_transient": false,
 					"settings":
@@ -1706,16 +1752,8 @@
 						"selection":
 						[
 							[
-								142,
-								142
-							],
-							[
-								1040,
-								1040
-							],
-							[
-								1051,
-								1051
+								1037,
+								1037
 							]
 						],
 						"settings":
@@ -1728,14 +1766,45 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 660.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 24,
+					"buffer": 25,
+					"file": "myapp/templates/blog.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
 					"file": "myapp/templates/index.html",
 					"semi_transient": false,
 					"settings":
@@ -1763,11 +1832,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 25,
 					"type": "text"
 				},
 				{
-					"buffer": 25,
+					"buffer": 27,
 					"file": "myapp/templates/about.html",
 					"semi_transient": false,
 					"settings":
@@ -1794,11 +1863,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 25,
+					"stack_index": 27,
 					"type": "text"
 				},
 				{
-					"buffer": 26,
+					"buffer": 28,
 					"file": "myapp/templates/register.html",
 					"semi_transient": false,
 					"settings":
@@ -1826,11 +1895,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
-					"buffer": 27,
+					"buffer": 29,
 					"file": "myapp/templates/strap.html",
 					"semi_transient": false,
 					"settings":
@@ -1859,11 +1928,11 @@
 						"translation.y": 726.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 26,
+					"stack_index": 28,
 					"type": "text"
 				},
 				{
-					"buffer": 28,
+					"buffer": 30,
 					"file": "myapp/templates/test1.html",
 					"semi_transient": false,
 					"settings":
@@ -1890,24 +1959,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 27,
+					"stack_index": 29,
 					"type": "text"
 				},
 				{
-					"buffer": 29,
+					"buffer": 31,
 					"file": "myapp/sql.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3622,
+						"buffer_size": 4057,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2884,
-								2884
+								4019,
+								4019
 							]
 						],
 						"settings":
@@ -1920,14 +1989,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 594.0,
+						"translation.y": 2244.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 30,
+					"buffer": 32,
 					"file": "myapp/view/mail.py",
 					"semi_transient": false,
 					"settings":
@@ -1954,41 +2023,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 31,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"default_dir": "D:\\Python34\\venv\\myapp\\view\\auth",
-							"encoding_helper_encoding": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 31,
-					"type": "text"
-				},
-				{
-					"buffer": 32,
+					"buffer": 33,
 					"file": "myapp/static/authemail.html",
 					"semi_transient": false,
 					"settings":
@@ -2015,11 +2054,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 30,
+					"stack_index": 32,
 					"type": "text"
 				},
 				{
-					"buffer": 33,
+					"buffer": 34,
 					"file": "myapp/templates/auth/login.html",
 					"semi_transient": false,
 					"settings":
@@ -2046,11 +2085,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 24,
 					"type": "text"
 				},
 				{
-					"buffer": 34,
+					"buffer": 35,
 					"semi_transient": false,
 					"settings":
 					{
@@ -2076,7 +2115,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 33,
+					"stack_index": 34,
 					"type": "text"
 				}
 			]
