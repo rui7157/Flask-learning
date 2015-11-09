@@ -1,2 +1,16 @@
+<<<<<<< HEAD
+﻿重新来了一遍
+
+=======
 ﻿shishihishishishisishsii
+<<<<<<< HEAD
+dddddddddddddddddd
+打我小弟弟
+create a master
+fen create a fenzhi
+ Dev   修改了好东西
+ll
+>>>>>>> dev
+=======
 Dev 的一次修改
+>>>>>>> dev
