@@ -1,0 +1,26 @@
+{% extends "ext_bootstrap.html" %}
+
+{% import 'bootstrap/wtf.html' as wtf %}
+{% block content%}
+
+{% if register %}
+
+			<h3>恭喜您注册成功！请牢记您的账号密码！</h3>
+			<ul>
+				<li>用户名：{{Name}}</li>
+				<li>密  码:{{Pwd}}</li>
+				<li>邮  箱:{{Email}}</li>
+			</ul>
+		</div>
+    </div>
+		
+{% else %}
+
+
+		<div>
+			<h3>你好！欢迎来到注册页面！</h3>
+		</div >
+		{{ wtf.quick_form(form) }}
+
+{% endif %}
+{%endblock%}
