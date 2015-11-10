@@ -58,7 +58,7 @@ docs/_build/
 # PyBuilder
 target/
 
-# Costume
+# My configurations:
 Scripts/
 venv.sublime-workspace
 *.sqlite
