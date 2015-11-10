@@ -19,8 +19,9 @@ class test(Config):
     MAIL_PORT = 25
     MAIL_USE_TLS = False
     MAIL_USE_SSL = False
-    MAIL_USERNAME = 'goodrui@163.com'
-    MAIL_PASSWORD = 'a13733431563'
+    MAIL_USERNAME = 'Sample@163.com'  #邮箱
+    MAIL_PASSWORD = 'yourself password of email' #邮箱密码
+    MAIL_DEFAULT_SENDER = 'Sample@163.com' #默认的发邮箱
 
 
 class development(Config):
@@ -32,9 +33,9 @@ class development(Config):
     MAIL_PORT = 25
     MAIL_USE_TLS = False
     MAIL_USE_SSL = False
-    MAIL_USERNAME = 'goodrui@163.com'
-    MAIL_PASSWORD = 'a13733431563'
-    MAIL_DEFAULT_SENDER = 'goodrui@163.com'
+    MAIL_USERNAME = 'Sample@163.com'  #邮箱
+    MAIL_PASSWORD = 'yourself password of email' #邮箱密码
+    MAIL_DEFAULT_SENDER = 'Sample@163.com' #默认的发邮箱
 
 
 config = {
