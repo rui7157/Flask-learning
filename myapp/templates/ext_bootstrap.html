@@ -1,0 +1,79 @@
+{%extends "bootstrap/base.html" %}
+
+
+
+{% block title %} Flask {%endblock%}
+
+	{%block head%}
+			{{ super() }}
+		<head>
+
+		<title>欢迎来到NvRay的Blog</title>
+
+		<link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/buttons.css')}}">
+		<link rel='icon' href="{{url_for('static',filename='favicon.ico')}}" type="image/x-icon">
+		<style type="text/css">body { padding-top: 50px; }</style><!--防止导航条遮挡body,设置下沉-->
+		</head>
+
+	{%endblock%}
+    {% block body %}
+<body padding='40px' background="{{url_for('static',filename='img/bg.jpg')}}">
+
+
+{% block navbar%}
+
+ <div class="navbar-fixed-top">
+ <!--导航块固定字在顶部(navbar navbar-fixed-top)-->
+    <!--<div class="container">-->
+ <!--限制宽度-->
+ 
+        <div class="navbar-collapse collapse">
+        <nav class="navbar navbar-inverse" role="navigation">
+        <!--使用反色(黑色)-->
+            <ul class="nav navbar-nav">
+                <li><a >&nbsp&nbsp&nbsp</a></li>
+                <li><a href="{{ url_for('view.new2') }}">Home</a></li>
+                <li><a href="{{ url_for('view.blog') }}">Blog</a></li>
+                <li><a href="{{ url_for('auth.form') }}">Register</a></li>
+                <li><a href="{{ url_for('view.test') }}">Test</a></li>
+                <li><a href="{{ url_for('view.user_agents') }}">About</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            
+            {% if current_user.is_authenticated %}
+            <li><a href="#">{{current_user.Uname}}</a></li>
+            <li><a href="{{ url_for('auth.logout') }}">退出</a></li>
+            {% else %}
+
+
+            <li><a href="{{ url_for('auth.login') }}">登录</a></li>
+            {% endif %}
+            <li><a >&nbsp&nbsp&nbsp</a></li>
+            </ul>
+
+
+            </nav>
+        </div>
+    </div>
+<!--</div>-->
+
+
+
+{%endblock%}
+
+    <div class="container">
+        <div class="jumbotron">
+        {% if get_flashed_messages()%}
+            <div class="alert alert-warning">
+            <button type="button" class="close" data-dismiss="alert">x</button>{{ get_flashed_messages()[0] }}
+            </div>
+        {% endif %}
+{%block content%}
+
+{%endblock%}
+</div>
+</div>
+</body>
+
+
+{% endblock %}

@@ -1,0 +1,23 @@
+{% extends "ext_bootstrap.html" %}
+
+{% block content%}
+{{ form.csrf_token }}
+<form action="/test" method="post" >
+<p>用户名{{form.name(size=16)}}</p>
+{% for error in form.name.errors %}
+ <span style="color: red;">[{{ error }}]</span>
+{% endfor %}<br>
+{{i}}<br>
+<p>密码{{form.pwd(size=16)}}</p>
+<p>邮箱{{form.email}}</p>
+<p>{{form.remenber_me}}记住我</p>
+<input type="submit" value="Go">
+
+{{get_flashed_messages()[0]}}<br>
+
+</form>
+
+<footer>
+<h3>{{super()}}</h3>
+</footer>
+{% endblock %}
