@@ -89,7 +89,8 @@ def form():
 # 重定向new1(/form)
     return render_template('register.html', register=None, form=form, Name=session.get('name'), Pwd=session.get('pwd'), Email=session.get('email'))
 
+
 @auth.before_app_request
 def before_request():
-	current_user.ping()
-
+    if current_user.is_authenticated:
+        current_user.ping()
