@@ -58,9 +58,11 @@ docs/_build/
 # PyBuilder
 target/
 
+
 # My Customs Config
 Scripts/
 venv.sublime-workspace
 *.sqlite
 Lib/
 Include/
+*.pyc
