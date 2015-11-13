@@ -32,7 +32,7 @@ class bbsUser(UserMixin, db.Model):
     Role_id = db.Column(db.Integer, db.ForeignKey('roles.id'))
 
     def ping(self):
-        self.last_seen = datetime.utcnow()
+        self.last_seen = datetime.now()
         db.session.add(self)
         db.session.commit()
 

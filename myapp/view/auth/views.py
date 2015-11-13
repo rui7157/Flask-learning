@@ -1,8 +1,8 @@
 from . import auth_blueprint as auth
 from flask import render_template, flash, redirect, url_for, session, request
-from flask.ext.login import login_required, login_user, logout_user
+from flask.ext.login import login_required, login_user, logout_user, current_user
 from ...sql import bbsUser, bbsuser_all
-from flask.ext.login import current_user
+
 from .form import loginForm, nameForm
 from ...other.userre import usernameRe, emailRe
 from ... import db
@@ -77,11 +77,11 @@ def form():
                 db.session.commit()
             except:
                 db.session.rollback()
-            token = user.generate_confirmation_token(3600)
+            token = user.generate_confirmation_token(86400)
             auth_url = url_for('auth.confirm', token=token, _external=True)
 
-            sendMail(session.get('email'), session.get('name'),
-                     session.get('email'), token=token, auth_url=auth_url)
+            sendMail(session.get('email'), session.get(
+                'name'), token=token, auth_url=auth_url)
             login_user(user, True)
             return render_template('register.html', register='ok', form=form, Name=session.get('name'), Pwd=session.get('pwd'), Email=session.get('email'))
 
@@ -94,3 +94,14 @@ def form():
 def before_request():
     if current_user.is_authenticated:
         current_user.ping()
+
+
+@auth.route('/confirm')
+@login_required
+def confirm_email():
+
+    token = current_user.generate_confirmation_token(86400)
+    auth_url = url_for('auth.confirm', token=token, _external=True)
+    if current_user.is_authenticated and current_user.Confirmed == 0:
+        sendMail(current_user.Uemail, current_user.Uname, token, auth_url)
+        return render_template('auth/sended.html')

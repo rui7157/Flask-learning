@@ -3,13 +3,12 @@ from . import view_blueprint as main
 # 封装了http请求内容
 from flask import render_template, url_for, session, request
 # 重定向
-
+from flask.ext.login import login_required, login_user, logout_user,current_user
 from .. import db
 from datetime import datetime
 from .form import nameForm
 from .. import bootstrap
-from ..sql import bbsUser,bbsuser_all
-
+from ..sql import bbsUser, bbsuser_all
 
 
 @main.route('/blog')
@@ -31,7 +30,10 @@ def new2():
 
 @main.route('/about')
 def user_agents():
+    send_email = False
     user_agent = request.headers.get('User-Agent')
-    return render_template('about.html', useragent=user_agent)
+    if current_user.is_authenticated and current_user.Confirmed == 0:
 
+        send_email = True
 
+    return render_template('about.html', useragent=user_agent, send_email=send_email)
