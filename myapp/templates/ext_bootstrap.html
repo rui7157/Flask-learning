@@ -32,16 +32,16 @@
         <!--使用反色(黑色)-->
             <ul class="nav navbar-nav">
                 <li><a >&nbsp&nbsp&nbsp</a></li>
-                <li><a href="{{ url_for('view.new2') }}">Home</a></li>
-                <li><a href="{{ url_for('view.blog') }}">Blog</a></li>
-                <li><a href="{{ url_for('auth.form') }}">Register</a></li>
-                <li><a href="{{ url_for('view.test') }}">Test</a></li>
-                <li><a href="{{ url_for('view.user_agents') }}">About</a></li>
+                <li><a href="{{ url_for('view.new2') }}">主页</a></li>
+                <li><a href="{{ url_for('view.blog') }}">日志</a></li>
+                <li><a href="{{ url_for('auth.form') }}">注册</a></li>
+                <li><a href="{{ url_for('view.test') }}">测试</a></li>
+                <li><a href="{{ url_for('view.user_agents') }}">关于</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
             
             {% if current_user.is_authenticated %}
-            <li><a href="#">{{current_user.Uname}}</a></li>
+            <li><a href="{{ url_for('view.user',Uname=current_user.Uname)}}">{{current_user.Uname}}</a></li>
             <li><a href="{{ url_for('auth.logout') }}">退出</a></li>
             {% else %}
 

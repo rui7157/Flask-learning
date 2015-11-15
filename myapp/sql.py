@@ -27,8 +27,8 @@ class bbsUser(UserMixin, db.Model):
     name = db.Column(db.String(64))  # 姓名
     localtion = db.Column(db.String(64))  # 地址
     aboutme = db.Column(db.Text)  # 自我介绍
-    member_since = db.Column(db.DateTime(), default=datetime.utcnow)  # 注册时间
-    last_seen = db.Column(db.DateTime(), default=datetime.utcnow)  # 最后一次登录时间
+    member_since = db.Column(db.DateTime(), default=datetime.now)  # 注册时间
+    last_seen = db.Column(db.DateTime(), default=datetime.now)  # 最后一次登录时间
     Role_id = db.Column(db.Integer, db.ForeignKey('roles.id'))
 
     def ping(self):

@@ -1,0 +1,22 @@
+
+{% extends 'ext_bootstrap.html' %}
+{% block content%}
+<h1>{{user.Uname}}</h1>
+
+{% if user %}
+<ul>                                      
+<li>邮箱:<a href="mailto:{{user.Uemail}}">{{user.Uemail}} </a></li>
+{% if user.localtion %} <li>地址:<a href='http://ditu.amap.com/search?query={{ user.localtion }}' target="_blank">{{user.localtion }} </a></li> {% endif %}
+{% if user.aboutme %} <li>介绍:{{user.aboutme}} </li> {% endif %}
+<li>注册时间:{{user.member_since.strftime('%Y-%m-%d %H:%M:%S')}}</li>
+<li>上一次登录:{{user.last_seen.strftime('%Y-%m-%d %H:%M:%S')}}</li>
+
+
+</ul>
+{% endif %}
+
+
+
+
+
+{% endblock %}	
