@@ -1,0 +1,2488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"la",
+				"last_seen"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Co",
+				"Column"
+			],
+			[
+				"m",
+				"myapp"
+			],
+			[
+				"您",
+				"您注册的邮箱已经存在！"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"e",
+				"except"
+			],
+			[
+				"de",
+				"default〔variable〕"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"ps",
+				"password"
+			],
+			[
+				"l",
+				"loginForm"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"lo",
+				"login_manager"
+			],
+			[
+				"au",
+				"auth_blueprint〔module〕"
+			],
+			[
+				"re",
+				"register_blueprint"
+			],
+			[
+				"ren",
+				"render_template"
+			],
+			[
+				"lgo",
+				"login_required"
+			],
+			[
+				"el",
+				"else〔keyword〕"
+			],
+			[
+				"v",
+				"view_blueprint"
+			],
+			[
+				"c",
+				"create_app〔function〕"
+			],
+			[
+				"MAIL",
+				"MAIL_USERNAME"
+			],
+			[
+				"er",
+				"errors"
+			],
+			[
+				"me",
+				"methods"
+			],
+			[
+				"test",
+				"test3"
+			],
+			[
+				"va",
+				"validators"
+			],
+			[
+				"F",
+				"Form"
+			],
+			[
+				"fr",
+				"form"
+			],
+			[
+				"B",
+				"BooleanField"
+			],
+			[
+				"uni",
+				"unique=True"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"p",
+				"primary_key=True"
+			],
+			[
+				"ro",
+				"role_id"
+			],
+			[
+				"cr",
+				"create_engine〔module〕"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"s",
+				"session"
+			],
+			[
+				"pri",
+				"primary_key"
+			],
+			[
+				"sql",
+				"sqlalchemy"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"N",
+				"NameForm"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"boo",
+				"bootstrap〔variable〕"
+			],
+			[
+				"ext",
+				"ext_wtf"
+			],
+			[
+				"vl",
+				"vlues2"
+			],
+			[
+				"se",
+				"self〔argument〕"
+			],
+			[
+				"ha",
+				"hash_password〔variable〕"
+			],
+			[
+				"ge",
+				"generate_password_hash〔module〕"
+			],
+			[
+				"SU",
+				"SubmitFirld"
+			],
+			[
+				"None",
+				"None〔variable〕"
+			],
+			[
+				"Name",
+				"NameForm〔class〕"
+			],
+			[
+				"sy",
+				"system〔function〕"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"a",
+				"action	Attr"
+			],
+			[
+				"redi",
+				"redirect1〔function〕"
+			],
+			[
+				"__",
+				"__name__ == '__main__':〔variable〕"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"cu",
+				"current_thread〔function〕"
+			],
+			[
+				"th",
+				"threading〔module〕"
+			],
+			[
+				"ci",
+				"current_thread〔function〕"
+			],
+			[
+				"ran",
+				"random	statement"
+			],
+			[
+				"pr",
+				"Process	module"
+			],
+			[
+				"url",
+				"urllib2"
+			],
+			[
+				"por",
+				"process"
+			],
+			[
+				"P",
+				"process	module"
+			],
+			[
+				"pro",
+				"profit	statement"
+			],
+			[
+				"i",
+				"insert	function"
+			],
+			[
+				"__del",
+				"__delitem__	function"
+			],
+			[
+				"__set",
+				"__setitem__	function"
+			],
+			[
+				"tr",
+				"True	instance"
+			],
+			[
+				"str",
+				"strfilepath	statement"
+			],
+			[
+				"img",
+				"Image	module"
+			],
+			[
+				"img_",
+				"img_size"
+			],
+			[
+				"wa",
+				"wraps"
+			],
+			[
+				"func",
+				"functools"
+			],
+			[
+				"w",
+				"wraps"
+			],
+			[
+				"k",
+				"kw"
+			],
+			[
+				"im",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"wi",
+				"while	While Loop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Python34/Lib/site-packages/flask/app.py",
+			"settings":
+			{
+				"buffer_size": 76782,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Python34/Lib/site-packages/flask/blueprints.py",
+			"settings":
+			{
+				"buffer_size": 16320,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myapp/templates/about.html",
+			"settings":
+			{
+				"buffer_size": 262,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "myapp/view/page.py",
+			"settings":
+			{
+				"buffer_size": 970,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "myapp/view/auth/views.py",
+			"settings":
+			{
+				"buffer_size": 3638,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "setup.py",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Windows",
+				"name": "setup.py"
+			}
+		},
+		{
+			"contents": "from setuptools import setup,find_packages\nsetup(\n	name='manager',\n	version='0.10',\n	author=\"NvRay\",\n	packages=find_packages(),\n	include_package_data=True,\n	scripts=[\"manager.py\"],\n	install_requires =[\"requirments.txt\"],\n    entry_points={\n        'console_scripts':[\n            'run = flask_nvray.manager:main'\n        ]\n     }\n    #author:NvRay\n	)",
+			"file": "/C/Users/Administrator/Desktop/flaskapp备份/setup.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/flaskapp/setup.py",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "from setuptools import setup,find_packages\nsetup(\n	name='flaskapp',\n	version='0.10',\n	author=\"NvRay\",\n	packages=find_packages(),\n	include_package_data=True,\n	scripts=[\"flaskapp/manager.py\"],\n	install_requires =[\"requirments.txt\"],\n    entry_points={\n        'console_scripts':[\n            'run = flask_nvray.manager:main'\n        ]\n     }\n    #author:NvRay\n	)",
+			"file": "/C/Users/Administrator/Desktop/test/setup.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 360,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/test/flaskapp/manager.py",
+			"settings":
+			{
+				"buffer_size": 627,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/test/flaskapp/index.wsgi",
+			"settings":
+			{
+				"buffer_size": 191,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/examples/flask/myapp.py",
+			"settings":
+			{
+				"buffer_size": 1149,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/examples/django/1.2.7/config.yaml",
+			"settings":
+			{
+				"buffer_size": 24,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/examples/django/1.2.7/index.wsgi",
+			"settings":
+			{
+				"buffer_size": 700,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/examples/django/1.4/config.yaml",
+			"settings":
+			{
+				"buffer_size": 111,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "myapp/__init__.py",
+			"settings":
+			{
+				"buffer_size": 1305,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/dev_server/cloudsql.py",
+			"settings":
+			{
+				"buffer_size": 6474,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/examples/helloworld/1/index.wsgi",
+			"settings":
+			{
+				"buffer_size": 238,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/test/flaskapp/config.py",
+			"settings":
+			{
+				"buffer_size": 1069,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/examples/renren/config.yaml",
+			"settings":
+			{
+				"buffer_size": 24,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/examples/matplotshell/config.yaml",
+			"settings":
+			{
+				"buffer_size": 118,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/dev_server/setup.py",
+			"settings":
+			{
+				"buffer_size": 962,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/examples/flask/index.wsgi",
+			"settings":
+			{
+				"buffer_size": 75,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/test/flaskapp/config.yaml",
+			"settings":
+			{
+				"buffer_size": 76,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/dev_server/manager.py",
+			"settings":
+			{
+				"buffer_size": 649,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/test/flaskapp/myapp/__init__.py",
+			"settings":
+			{
+				"buffer_size": 1307,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/dev_server/myapp/__init__.py",
+			"settings":
+			{
+				"buffer_size": 1306,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "#!/usr/bin/env python\n\n\"\"\"Simple development server\n\nMake sure you're use python 2.7 for developing\n\n\"\"\"\nimport sys\nimport os\nimport os.path\nimport re\nimport imp\nimport yaml\nfrom optparse import OptionParser\n\nfrom sae.util import search_file_bottom_up\n\nfrom sae.channel import _channel_wrapper\n\ndef setup_sae_environ(conf):\n    # Add dummy pylibmc module\n    import sae.memcache\n    sys.modules['pylibmc'] = sae.memcache\n\n    # Save kvdb data in this file else the data will lost\n    # when the dev_server.py is down\n    if conf.kvdb:\n        print ('KVDB: ', conf.kvdb)\n        os.environ['sae.kvdb.file'] = conf.kvdb\n\n    # Add app_root to sys.path\n    cwd = os.getcwd()\n    if cwd not in sys.path:\n        sys.path.insert(0, cwd)\n\n    try:\n        appname = str(conf.name)\n        appversion = str(conf.version)\n    except AttributeError:\n        raise AttributeError('`name` or `version` not found in `config.yaml`')\n\n    if conf.mysql:\n        import sae.const\n\n        p = re.compile('^(.+):(.+)@(.+):(\\d+)$')\n        m = p.match(conf.mysql)\n        if not m:\n            raise Exception(\"Invalid mysql configuration\")\n\n        user, password, host, port = m.groups()\n        dbname = 'app_' + appname\n        sae.const.MYSQL_DB = dbname\n        sae.const.MYSQL_USER = user\n        sae.const.MYSQL_PASS = password\n        sae.const.MYSQL_PORT = port\n        sae.const.MYSQL_HOST = host\n        sae.const.MYSQL_HOST_S = host\n\n        print 'MySQL: %s.%s' % (conf.mysql, dbname)\n    else:\n        print 'MySQL config not found'\n\n    if conf.storage:\n        os.environ['sae.storage.path'] = os.path.abspath(conf.storage)\n        \n    # Add custom environment variable\n    os.environ['HTTP_HOST'] = '%s:%d' % (conf.host, conf.port)\n    os.environ['APP_NAME'] = appname\n    os.environ['APP_VERSION'] = appversion\n\nclass Worker:\n    def __init__(self, conf, app):\n        self.conf = conf\n        self.application = app\n        self.collect_statifiles()\n\n    def collect_statifiles(self):\n        self.static_files = {}\n        if hasattr(self.conf, 'handlers'):\n            for h in self.conf.handlers:\n                url = h['url']\n                if h.has_key('static_dir'):\n                    self.static_files[url] = os.path.join(app_root, h['static_dir'])\n                elif h.has_key('static_path'):\n                    self.static_files[url] = os.path.join(app_root, h['static_path'])\n        if not len(self.static_files):\n            self.static_files.update({\n                '/static': os.path.join(app_root,  'static'),\n                '/media': os.path.join(app_root,  'media'),\n                '/favicon.ico': os.path.join(app_root,  'favicon.ico'),\n            })\n        import sae\n        self.static_files['/_sae/channel/api.js'] = os.path.join(os.path.dirname(sae.__file__), 'channel.js')\n\n        if self.conf.storage:\n            # stor dispatch: for test usage only\n            self.static_files['/stor-stub/'] = os.path.abspath(self.conf.storage)\n\n    def run(self):\n        raise NotImplementedError()\n\nclass WsgiWorker(Worker):\n    def run(self):\n        # FIXME: All files under current directory\n        files = ['index.wsgi']\n\n        # XXX:\n        # when django template renders `environ` in its 500 page, it will\n        # try to call `environ['werkzeug.server.shutdown'` and cause the\n        # server exit unexpectedly.\n        # See: https://docs.djangoproject.com/en/dev/ref/templates/api/#variables-and-lookups\n        def wrap(app):\n            def _(environ, start_response):\n                try:\n                    del environ['werkzeug.server.shutdown']\n                except KeyError:\n                    pass\n                return app(environ, start_response)\n            return _\n\n        if 'WERKZEUG_RUN_MAIN' in os.environ:\n            os.environ['sae.run_main'] = '1'\n\n        self.application = _channel_wrapper(self.application)\n        from werkzeug.serving import run_simple\n        run_simple(self.conf.host, self.conf.port,\n                   wrap(self.application),\n                   use_reloader = True,\n                   use_debugger = True,\n                   extra_files = files,\n                   static_files = self.static_files)\n\nclass TornadoWorker(Worker):\n    def run(self):\n        import tornado.autoreload\n        tornado.autoreload.watch('index.wsgi')\n\n        import re\n        from tornado.web import URLSpec, StaticFileHandler\n        # The user should not use `tornado.web.Application.add_handlers`\n        # since here in SAE one application only has a single host, so here\n        # we can just use the first host_handers.\n        handlers = self.application.handlers[0][1]\n        for prefix, path in self.static_files.iteritems():\n            pattern = re.escape(prefix) + r\"(.*)\"\n            handlers.insert(0, URLSpec(pattern, StaticFileHandler, {\"path\": path}))\n\n        os.environ['sae.run_main'] = '1'\n\n        import tornado.ioloop\n        from tornado.httpserver import HTTPServer\n        server = HTTPServer(self.application, xheaders=True)\n        server.listen(self.conf.port, self.conf.host)\n        tornado.ioloop.IOLoop.instance().start()\n\ndef main(options):\n    conf_path = os.path.join(app_root, 'config.yaml')\n    conf = yaml.load(open(conf_path, \"r\"))\n    options.__dict__.update(conf)\n    conf = options\n\n    # if env `WERKZEUG_RUN_MAIN` is not defined, then we are in \n    # the reloader process.\n    # if os.environ.get('WERKZEUG_RUN_MAIN', False):\n\n    setup_sae_environ(conf)\n\n    try:\n        index = imp.load_source('index', 'index.wsgi')\n    except IOError:\n        print >>sys.stderr, \"Seems you don't have an index.wsgi\"\n        return\n    if not hasattr(index, 'application'):\n        print >>sys.stderr, \"application not found in index.wsgi\"\n        return\n    if not callable(index.application):\n        print >>sys.stderr, \"application is not a callable\"\n        return\n\n    application = index.application\n\n    cls_name = getattr(conf, 'worker', 'wsgi').capitalize() + 'Worker'\n    try:\n        globals().get(cls_name, WsgiWorker)(conf, application).run()\n    except KeyboardInterrupt:\n        pass\n\nif __name__ == '__main__':\n    parser = OptionParser()\n    parser.add_option(\"-p\", \"--port\", type=\"int\", dest=\"port\", default=\"8080\",\n                      help=\"Which port to listen\")\n    parser.add_option(\"--host\", dest=\"host\", default=\"localhost\",\n                      help=\"Which host to listen\")\n    parser.add_option(\"--mysql\", dest=\"mysql\", help=\"Mysql configuration: user:password@host:port\")\n    parser.add_option(\"--storage-path\", dest=\"storage\", help=\"Directory used as local stoarge\")\n    parser.add_option(\"--kvdb-file\", dest=\"kvdb\", help=\"File to save kvdb data\")\n    (options, args) = parser.parse_args()\n\n    app_root = search_file_bottom_up('config.yaml')\n    if app_root is None:\n        print >> sys.stderr, \\\n            'Error: Not an app directory(or any of the parent directories)'\n        sys.exit(1)\n    if app_root != os.getcwd(): os.chdir(app_root)\n\n    main(options)\n",
+			"file": "/E/flask/sae-python-dev-guide/dev_server/dev_server.py",
+			"file_size": 7220,
+			"file_write_time": 130920264024270044,
+			"settings":
+			{
+				"buffer_size": 7016,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/dev_server/sae/conf.py",
+			"settings":
+			{
+				"buffer_size": 344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/dev_server/sae/const.py",
+			"settings":
+			{
+				"buffer_size": 439,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/dev_server/index.wsgi",
+			"settings":
+			{
+				"buffer_size": 191,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "myapp/sql.py",
+			"settings":
+			{
+				"buffer_size": 4054,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "软件最终用户许可协议\n    请务必仔细阅读和理解本软件最终用户许可协议（《协议》）中规定的所有权利和限制。在安装时，您需要仔细阅读并决定接受或不接受本《协议》的条款。除非或直至您接受本《协议》的条款，否则本软件不得安装在您的计算机上。\n    作为参考，您现在就可以从本页起打印出本《协议》的文本，或者参阅本“软件”“帮助”菜单或软件安装所在目录中本《协议》的副本。 \n    本《协议》是您与 deerchao 之间有关随附本《协议》的软件产品的法律协议。本软件包括随附的计算机软件，并可能包括相关文档印刷材料。您一旦安装本“软件”，即表示您同意接受本《协议》各项条款的约束。如您不同意本《协议》中的条款，您则不可以安装或使用本“软件”。\n    本“软件”受著作权法及国际著作权条约和其它知识产权法和条约的保护。本“软件”权利只许可使用，而不允许出售。\n\n一．Deerchao 将本软件在地球上任意位置的非专有的使用权授予您。 您可以： \n    1.  在一台（或另行书面协定规定数量范围内的）计算机、工作站、终端机、手持式计算机或其它数字电子仪器（“计算机”）上安装、使用、显示、运行（“运行”）本“软件” 的一份副本。 \n    2.  为了防止复制品损坏而制作备份复制品。这些备份复制品不得通过任何方式提供给他人使用，并在您丧失该合法复制品的所有权时，负责将备份复制品销毁。\n    3.  为了把该软件用于实际的计算机应用环境或者改进其功能、性能而进行必要的修改；但是，除合同另有约定外，未经 deerchao 许可，不得向任何第三方提供修改后的软件。\n \n二．您保证：\n    1.  不在本协议规定的条款之外，使用、复制、修改、租赁或转让本软件或其中的任一部份。\n    2.  只在一台（或另行书面协定规定数量范围内的）计算机上使用本软件；一份“软件”许可不得在不同的计算机上共同或同时使用。 \n    3.  只在以下之一前提下，将本系统用于多用户环境或网络系统上：\n        本“软件”明文许可用于多用户环境或网络系统上；\n        使用本“软件”的每一节点及终端都已购买使用许可。\n    4.  不得对本“软件”进行反向工程、反向编译或反汇编。\n    5.  不出租、租赁或出借本“软件”产品。\n    6.  在本“软件”的所有副本上包含所有的版权标识。\n\n三．软件转让\n    您无论在任何条件下均无权转让本“软件”，也不得将本软件进行分授权。\n\n四．支持服务\n    1.  deerchao 为您提供与“软件”有关的支持服务（“支持服务”），该服务可能有偿，具体细节由双方协商决定。\n    2.  支持服务的使用受用户手册或其它 deerchao 提供的材料中所述的各项政策和计划或另行书面协议的制约。\n    3.  提供给您作为支持服务的一部分的任何附加软件代码应被视为本“软件”的一部分，并须符合本《协议》中的各项条款。\n    4.  deerchao 欢迎您对本“软件”反馈相关意见和建议。您自愿提供给 deerchao 的反馈意见和建议，其所包含的一切权益，包括但不限于知识产权将由 deerchao 享有。您提供给 deerchao 作为支持服务的一部分的技术信息，deerchao 可将其用于商业用途，包括产品支持和开发。除了在为您提供支持时必须的情况外，deerchao 在使用这些技术信息时不会以个人形式提及您。\n\n五．软件的替换、修改和升级\n    1.  deerchao 保留在任何时候通过为您提供本“软件”的替换版本或修改版本或这类升级版本以替换、修改或使本“软件”升级的权利。\n    2.  deerchao 提供给您的本“软件”的任何替换版本或修改软件代码或升级版本，将被视为本“软件”的一部分并且要受到本《协议》条款的制约（除非本《协议》被随附本“软件”的替换或修改版本或升级版本的另外一份《协议》取代）。\n    3.  如果 deerchao 提供本“软件”的一个替换或修改版本或任何升级版本，则（a）您对本“软件”的继续使用条件是您接受本“软件”的这类替换或修改版本或升级版本以及任何随附的取代《协议》，并且（b）就替换或修改版本的“软件”而言，您对“软件”的所有先前版本的使用将被终止。\n\n六．权利的保留：\n    未明示授予的一切其它权利均为 deerchao 所有。 \n\n七．本“软件”的著作权\n    1.  本“软件产品”及其所有复制品的名称，与光盘上或本软件中注明的版权所有者同在。\n    2.  本“软件产品”（包括但不限于本“软件”中所含的任何图像、照片、动画、录像、录音、音乐、文字和附加程序）、随附的印刷材料、及本“软件”任何副本的著作权，均由 deerchao 拥有。\n    3.  本软件及文档享有版权，并受国家版权法及国际协约条款的保护。\n    4.  您不可以从本软件中去掉其版权声明；并保证为本软件的复制品（全部或部分）复制版权声明。您同意制止以任何形式非法复制本软件及文档。\n    5.  您不可复制本“软件”随附的印刷材料。\n\n八．出口限制\n    您同意不将本“软件”、其任何部分或任何属“软件”的直接成果的任何程序或服务出口或转口给任何中国大陆外的任何国家或者地区。\n\n九．责任有限：\n    上述担保，无论是明示或暗喻的，为担保的全部内容，包括对特殊应用目的的商品性和适应性担保。在适用法律所允许的最大范围内， deerchao 或其供应商绝不就因使用或不能使用本“软件”所引起的或有关的任何间接的、意外的、直接的、非直接的、特殊的、惩罚性的或其它任何损害赔偿（包括但不限于因人身伤害或财产损坏而造成的损害赔偿，因利润损失、营业中断、商业信息的遗失而造成的损害赔偿，因未能履行包括诚信或相当注意在内的任何责任致使隐私泄露而造成的损害赔偿，因疏忽而造成的损害赔偿，或因任何金钱上的损失或任何其它损失而造成的损害赔偿）承担赔偿责任，即使 deerchao 或其任何供应商事先被告知该损害发生的可能性。即使补救措施未能达到预定目的，本损害赔偿排除条款将仍然有效。 \n\n十．许可终止：\n    1.  如您未遵守本《协议》的各项条款和条件，在不损害其它权利的情况下，deerchao可终止本《协议》。终止《协议》时，您必须立即销毁本软件的所有复制品，或者归还给deerchao。\n    2.  通过向您提供本“软件”或本“软件”的任何替换或修改版本或升级版本的一份取代《协议》，并规定您继续使用本“软件”或这类替换、修改或升级版本的条件是您接受这类取代《协议》，deerchao 可以终止本《协议》。\n\n十一．适用、管辖法律：\n    本协议适用《中华人民共和国著作权法》、《中华人民共和国计算机软件保护条例》、《中华人民共和国商标法》、《中华人民共和国专利法》等法律法规。\n    本《协议》受中华人民共和国法律管辖。\n\n十二．另行书面协定\n    如您与 deerchao 有关于此“软件”的另行书面协定，且此协定与《协议》存在相冲突的条款，则以另行书面协定为准。另行书面协定未提及的部分，本许可协议仍然适用。",
+			"file": "software.txt",
+			"file_size": 5489,
+			"file_write_time": 130913475584122244,
+			"settings":
+			{
+				"buffer_size": 2976,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"file": "config.py",
+			"settings":
+			{
+				"buffer_size": 1297,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/.ssh/id_rsa.pub",
+			"settings":
+			{
+				"buffer_size": 400,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/Github/Flask-Web-Development/README.md",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/pytstd/reptile/reptile_renren.py",
+			"settings":
+			{
+				"buffer_size": 1572,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/kl.py",
+			"settings":
+			{
+				"buffer_size": 151,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "myapp/view/user/__init__.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "__init__.py"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/docs/conf.py",
+			"settings":
+			{
+				"buffer_size": 8462,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/.gitignore",
+			"settings":
+			{
+				"buffer_size": 253,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/flask/sae-python-dev-guide/README",
+			"settings":
+			{
+				"buffer_size": 64,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python 3/Python3.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instak",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Try/Except/Finally"
+			],
+			[
+				"菜",
+				"View: Toggle Menu→切换菜单"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path();  os.makedirs(ipp) if not os.path.exists(ipp) else None;   urllib.install_opener(urllib.build_opener(urllib.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllibos; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path();  os.makedirs(ipp) if not os.path.exists(ipp) else None;   urllibinstall_opener(urllibbuild_opener(urllibProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urlliburlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path();  os.makedirs(ipp) if not os.path.exists(ipp) else None;   urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path();  os.makedirs(ipp) if not os.path.exists(ipp) else None;   urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/flask/sae-python-dev-guide/dev_server/app.py",
+		"/C/Users/Administrator/Desktop/test/flaskapp/site-packages/flask/ext/__init__.py",
+		"/E/flask/sae-python-dev-guide/dev_server/myapp.py",
+		"/E/flask/sae-python-dev-guide/dev_server/config.yaml",
+		"/D/Python34/venv/tests/test.py",
+		"/E/flask/sae-python-dev-guide/dev_server/dev_server.py",
+		"/E/flask/sae-python-dev-guide/examples/static-site/config.yaml",
+		"/E/flask/setup.py",
+		"/E/flask/sae-python-dev-guide/examples/flask/app.py",
+		"/E/flask/build/bdist.win-amd64/egg/pip/download.py",
+		"/E/flask/build/bdist.win-amd64/egg/pip/index.py",
+		"/D/Python34/setup.py",
+		"/D/Python34/setup.cfg",
+		"/C/Users/Administrator/Desktop/test/flaskapp/site-packages/flask/ext/login.py",
+		"/D/Python27/easygui.py",
+		"/D/Python34/Lib/site-packages/flask_moment.py",
+		"/C/Users/Administrator/Desktop/flaskapp备份/config.py",
+		"/C/Users/Administrator/Desktop/setup.py",
+		"/C/Users/Administrator/Desktop/flaskapp/build/scripts-3.4/manager.py",
+		"/D/Python34/venv/githubtest.txt",
+		"/C/Users/Administrator/Desktop/Flask.htm",
+		"/D/Python34/venv/manager.py",
+		"/D/Python34/venv/myapp/view/auth/views.py",
+		"/D/Python34/venv/myapp/templates/auth/sended.html",
+		"/D/Python34/venv/myapp/view/mail.py",
+		"/D/Python34/venv/myapp/__init__.py",
+		"/D/Python34/venv/Scripts/migrations/versions/28551ae035a_init_migrate.py",
+		"/D/Python34/venv/myapp/sql.py",
+		"/D/Python34/venv/config.py",
+		"/D/Python34/venv/Scripts/migrations/README",
+		"/D/Python34/venv/.gitignore",
+		"/C/Users/Administrator/Desktop/test.html",
+		"/D/Python34/venv/.git/logs/refs/heads/master",
+		"/D/Python34/venv/myapp/templates/auth/login.html",
+		"/D/Python34/venv/myapp/static/authemail.html",
+		"/D/Python34/venv/myapp/templates/test1.html",
+		"/D/Python34/venv/myapp/templates/strap.html",
+		"/D/Python34/venv/myapp/templates/register.html",
+		"/D/Python34/venv/myapp/templates/about.html",
+		"/D/Python34/venv/myapp/templates/index.html",
+		"/D/Python34/venv/myapp/templates/ext_bootstrap.html",
+		"/D/Python34/venv/myapp/templates/auth/401.html",
+		"/D/Python34/venv/myapp/view/auth/errors.py",
+		"/D/Python34/venv/myapp/view/form.py",
+		"/D/Python34/venv/myapp/view/auth/form.py",
+		"/D/Python34/venv/myapp/view/users/view.py",
+		"/D/Python34/venv/myapp/view/users/__init__.py",
+		"/D/Python34/venv/myapp/view/auth/__init__.py",
+		"/D/Python34/venv/myapp/templates/404.html",
+		"/D/Python34/venv/myapp/view/page.py",
+		"/D/Python34/venv/myapp/view/__init__.py",
+		"/D/Python34/venv/myapp/view/test.py",
+		"/D/Python34/venv/myapp/view/errors.py",
+		"/D/Python34/.gitignore",
+		"/D/program files/Git/mingw64/ssl/certs/ca-bundle.crt",
+		"/D/Python34/venv/.git/logs/refs/heads/test2",
+		"/C/Users/Administrator/Desktop/pytstd/reptile/test.py",
+		"/D/360安全浏览器下载/workplay.js",
+		"/C/Users/Administrator/Desktop/kl.py",
+		"/D/Python34/venv/myapp/templates/auth/confirm.html",
+		"/D/Python34/venv/myapp/templates/blong.html",
+		"/D/Python34/venv/myapp/view/auth/login.py",
+		"/D/Python34/venv/myapp/templates/auth/404.html",
+		"/D/Python34/venv/myapp/templates/401.html",
+		"/D/Python34/venv/myapp/view/sql.py",
+		"/D/Python34/venv/tests/__init__.py",
+		"/D/Python34/venv/tests/test_base.py",
+		"/D/Python34/venv/myapp/view/myapp.py",
+		"/D/Python34/venv/__init__.py",
+		"/D/Python34/venv/User.sqlite",
+		"/D/Python34/venv/myapp/view/index.py",
+		"/D/Python34/venv/myapp/view/about.py",
+		"/D/Python34/venv/myapp/view/strap.py",
+		"/D/Python34/venv/myapp/view/blong.py",
+		"/D/Python34/venv/myapp/view/boot.py",
+		"/D/Python34/venv/myapp/view/test4.py",
+		"/D/Python34/venv/Scripts/other/userre.py",
+		"/D/Python34/venv/Scripts/sql.py",
+		"/D/Python34/venv/Scripts/templates/test1.html",
+		"/D/Python34/venv/Scripts/templates/ext_bootstrap.html",
+		"/D/Python34/venv/Scripts/templates/register.html",
+		"/D/Python34/venv/Scripts/mail.py",
+		"/D/Python34/venv/Scripts/templates/test3.html",
+		"/D/Python34/venv/Scripts/test2.py",
+		"/D/Python34/venv/Scripts/config.py",
+		"/D/Python34/venv/Scripts/myapp.py",
+		"/D/Python34/venv/Scripts/templates/test4.py",
+		"/D/Python34/venv/Scripts/templates/text3.py",
+		"/D/Python34/venv/Scripts/templates/blong.html",
+		"/D/Python34/venv/Scripts/test.py",
+		"/C/Users/Administrator/Desktop/press-1922-package-v2/数据库进阶-对象关系映射（ORM）的使用/源码/数据库进阶-对象关系映射（ORM）的使用-v5/c06/user/model.py",
+		"/D/Python34/venv/Scripts/templates/index.html",
+		"/D/Python34/venv/Scripts/templates/form.html",
+		"/D/Python34/venv/Scripts/templates/new_1.txt",
+		"/D/Python34/venv/Scripts/templates/about.html",
+		"/D/Python34/venv/Scripts/templates/model.html",
+		"/C/Users/Administrator/Desktop/press-1922-package-v2/数据库进阶-对象关系映射（ORM）的使用/源码/数据库进阶-对象关系映射（ORM）的使用-v5/c06/user/main.py",
+		"/D/Python34/venv/Scripts/templates/404.html",
+		"/D/Python34/venv/Scripts/templates/strap.html",
+		"/D/Python34/venv/Scripts/test.db",
+		"/D/Python34/venv/Scripts/activate",
+		"/C/Users/Administrator/.ssh/id_rsa",
+		"/D/Python34/venv/Scripts/deactivate.bat",
+		"/D/Python34/venv/Scripts/SQLite1.py",
+		"/C/Users/Administrator/Desktop/pytstd/def.py",
+		"/D/Python34/venv/Scripts/learning/hebingdict.py",
+		"/D/Python34/venv/Scripts/SQLite2.py",
+		"/C/Users/Administrator/Desktop/pytstd/text3.py",
+		"/D/Python34/venv/Scripts/__init__.py",
+		"/D/Python34/venv/Scripts/templates/new.html",
+		"/C/Users/Administrator/Desktop/pytstd/Python学习/9x9.py",
+		"/C/Users/Administrator/Desktop/bilibili.py",
+		"/C/Users/Administrator/Desktop/pytstd/reptile/reptile_renren.py",
+		"/C/Users/Administrator/Desktop/pytstd/reptile/new1.py",
+		"/C/Users/Administrator/Desktop/pytstd/test2.py",
+		"/D/Python34/venv/Lib/site-packages/flask/exthook.py",
+		"/D/Python34/venv/Scripts/templates/ext_wtf.html",
+		"/D/Python34/venv/Scripts/templates/new_2.html",
+		"/D/Python34/venv/Scripts/templates/new_1.html",
+		"/C/Users/Administrator/Desktop/Flask-development-foundation-and-entry_v1/Flask-development-foundation-and-entry/Flask开发基础与入门/源码/03msg_error/templates/index.html",
+		"/C/Users/Administrator/Desktop/Flask-development-foundation-and-entry_v1/Flask-development-foundation-and-entry/Flask开发基础与入门/源码/03msg_error/flaskapp.py",
+		"/D/Python34/venv/Scripts/templates/wtf_module.py",
+		"/D/Python34/venv/Scripts/new_user.py",
+		"/C/Users/Administrator/Desktop/Flask-development-foundation-and-entry_v1/Flask-development-foundation-and-entry/Flask开发基础与入门/源码/02template/models.py",
+		"/C/Users/Administrator/Desktop/Flask-development-foundation-and-entry_v1/Flask-development-foundation-and-entry/Flask开发基础与入门/源码/02template/flaskapp.py",
+		"/D/Python34/venv/Scripts/user.py",
+		"/D/用户目录/我的文档/Tencent Files/769007157/FileRecv/ziji.py",
+		"/C/Users/Administrator/Desktop/pytstd/web/app.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"^",
+			"^  ",
+			"==",
+			"app",
+			"(\"{{",
+			".pyc",
+			"myapp",
+			"Inc",
+			"Incl",
+			"include",
+			"role",
+			"Role",
+			"Blong",
+			"blong",
+			"view.form",
+			"abort",
+			"User",
+			"user",
+			"User",
+			"user",
+			"off",
+			">",
+			"Upassword ",
+			"登录",
+			"  ",
+			"	",
+			"class Blueprint",
+			"Blueprint",
+			"blueprint.name",
+			"register_blueprint",
+			"register_",
+			"register",
+			"sql",
+			"'",
+			"]",
+			"app.config[",
+			"nameform",
+			"app",
+			"Message",
+			" %}",
+			"		\n",
+			"SQL",
+			"form",
+			"user_id",
+			"db.",
+			"sqlite",
+			"name1",
+			"'>\n",
+			" %}",
+			"%}",
+			"name1",
+			"name",
+			"pwd",
+			"name",
+			"red",
+			"{{ ",
+			">",
+			"h1",
+			"new",
+			"())",
+			"/'",
+			"decode",
+			"load",
+			"load_module",
+			"load",
+			"')\n",
+			"is",
+			">')",
+			"a",
+			"x",
+			"open_workbook",
+			"open_excel",
+			"sheet_by_name",
+			"open_excel",
+			"data",
+			"sheet_by_name",
+			"excel_table_rownum",
+			"+B",
+			"+ B",
+			"Ctrl",
+			"ctrl",
+			"rander",
+			"('",
+			"append_data",
+			"2",
+			"rllib2",
+			"os",
+			"20",
+			"2",
+			"installation",
+			"urllib2",
+			"\ntry:\n	profit=int(input(\"Plase your profit:\"))\nexcept ValueError:\n	print (\"Your input is not a number\")\n	profit=0\nbonus=0\nif profit<=100000:\n	bonus=profit*0.1\nelif profit>100000 and profit<=200000:\n	bonus=100000*0.1+(profit-100000)*0.075\nelif profit>200000 and profit<=400000:\n	bonus=(profit-200000)*0.05+17500\nelif profit>400000 and profit<=600000:\n	bonus=(profit-400000)*0.03+27500\nelif profit>600000 and profit <=1000000:\n	bonus=(profit-600000)*0.015+33500\nelif profit>1000000:\n	bonus=(profit-1000000)*0.01+39500\nelse:\n	print (\"You don't have a bonus\")\nprint (\"Your bonus is:\"+str(bonus))",
+			"#!/usr/bin/env python3\n# -*- coding: utf-8 -*-\n\n' a test module '\n\n__author__ = 'NvRay'\n\nfrom PIL import Image\nimport sys,os\nimg_path=os.getcwd()\nimg_name=sys.argv[1]\n\nprint (\"filename,sizex,sizey,formt\")\ndef duang():\n	pic=Image.open(img_path+'\\img_name')\n	if len(sys.argv)==3:\n		img_sizex=sys.argv[2]\n		img_sizey=sys.argv[3]\n		pic.thumbnail((int(img_sizex),int(img_sizey)))\n		pic.save()\n	elif len(sys.argv)==4:\n		img_format=sys.argv[4]\n		pic.thumbnail((int(img_sizex),int(img_sizey)))\n		pic.save()\n		print ('end')\n		if __name__=='__main__':\n			duang()",
+			"#!/usr/bin/env python3\n# -*- coding: utf-8 -*-\n\n' a test module '\n\n__author__ = 'NvRay'\n\nfrom PIL import Image\nimport sys,os\nimg_path=os.getcwd()\nimg_name=sys.argv[1]\n\nprint (\"filename,sizex,sizey,formt\")\ndef duang():\n	pic=Image.open(img_path+'\\img_name')\n	if len(sys.argv)==3:\n		img_sizex=sys.argv[2]\n		img_sizey=sys.argv[3]\n		pic.thumbnail((int(img_sizex),int(img_sizey)))\n		pic.save()\n	elif len(sys.argv)==4:\n		img_format=sys.argv[4]\n		pic.thumbnail((int(img_sizex),int(img_sizey)))\n		pic.save()\n	print ('end')\nif __name__=='__main__':\n    duang()",
+			"clab",
+			"HostName",
+			"informix server",
+			"informix",
+			"ROOTSIZE",
+			"rootsize",
+			"pic",
+			",'eucgb2312_cn'",
+			")",
+			"') ",
+			"unicode(",
+			"print ",
+			"sys.argv",
+			"admin",
+			"	\n",
+			"image002",
+			"image",
+			"image0",
+			"image002",
+			"body",
+			"image002",
+			"image003",
+			"image",
+			"img",
+			"7",
+			"])}",
+			"=-[poikjhvcx]",
+			"poikjhvcx"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n\n\nif __name__ == '__main__':\n	print(type(get_web()))\n    print(get_web)\n",
+			":\n",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "D:\\Python34\\venv"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 25,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Python34/Lib/site-packages/flask/app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17306,
+								17306
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8096.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Python34/Lib/site-packages/flask/blueprints.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5888,
+								5888
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1254.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "myapp/templates/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "myapp/view/page.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								882,
+								882
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 448.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "myapp/view/auth/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2006,
+								2006
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2046.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "setup.py",
+							"encoding_helper_encoding": "cp936",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Administrator/Desktop/flaskapp备份/setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Administrator/Desktop/flaskapp/setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Administrator/Desktop/test/setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								360,
+								360
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Administrator/Desktop/test/flaskapp/manager.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								613,
+								620
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/Administrator/Desktop/test/flaskapp/index.wsgi",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/E/flask/sae-python-dev-guide/examples/flask/myapp.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1146,
+								1146
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 770.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/E/flask/sae-python-dev-guide/examples/django/1.2.7/config.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "cp936",
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/E/flask/sae-python-dev-guide/examples/django/1.2.7/index.wsgi",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/E/flask/sae-python-dev-guide/examples/django/1.4/config.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								25
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "myapp/__init__.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/E/flask/sae-python-dev-guide/dev_server/cloudsql.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/E/flask/sae-python-dev-guide/examples/helloworld/1/index.wsgi",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/C/Users/Administrator/Desktop/test/flaskapp/config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/E/flask/sae-python-dev-guide/examples/renren/config.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/E/flask/sae-python-dev-guide/examples/matplotshell/config.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/E/flask/sae-python-dev-guide/dev_server/setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/E/flask/sae-python-dev-guide/examples/flask/index.wsgi",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/C/Users/Administrator/Desktop/test/flaskapp/config.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/E/flask/sae-python-dev-guide/dev_server/manager.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/C/Users/Administrator/Desktop/test/flaskapp/myapp/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							],
+							[
+								229,
+								235
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/E/flask/sae-python-dev-guide/dev_server/myapp/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "/E/flask/sae-python-dev-guide/dev_server/dev_server.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6827,
+								6832
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4208.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "/E/flask/sae-python-dev-guide/dev_server/sae/conf.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "/E/flask/sae-python-dev-guide/dev_server/sae/const.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "cp936",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "/E/flask/sae-python-dev-guide/dev_server/index.wsgi",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "myapp/sql.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1263,
+								1263
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 528.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "software.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								258
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "GB2312",
+							"in_converting": true,
+							"origin_encoding": "GBK",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "/C/Users/Administrator/.ssh/id_rsa.pub",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "/E/Github/Flask-Web-Development/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "UTF-8",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 40,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "/C/Users/Administrator/Desktop/pytstd/reptile/reptile_renren.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								56
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 42,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "/C/Users/Administrator/Desktop/kl.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"encoding_helper_encoding": "cp936",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 41,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "myapp/view/user/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "__init__.py",
+							"encoding_helper_encoding": "",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "/E/flask/sae-python-dev-guide/docs/conf.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1056.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "/E/flask/sae-python-dev-guide/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "/E/flask/sae-python-dev-guide/README",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 227.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"myapp",
+				"myapp.py"
+			],
+			[
+				"ab",
+				"templates\\about.html"
+			],
+			[
+				"ex",
+				"templates\\ext_bootstrap.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Python34\\venv\\Scripts\\work1.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
